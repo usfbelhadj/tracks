@@ -1773,6 +1773,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .sold{
   background-color:black;
   padding: 10px;
+  text-align: center;
 }
 
 .sold h1{
