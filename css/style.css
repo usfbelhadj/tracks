@@ -1771,7 +1771,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 
 .sold{
-  background-color:black;
+  background-color:rgb(17, 16, 16);
   padding: 10px;
   text-align: center;
 }
@@ -1779,7 +1779,12 @@ h1, h2, h3, h4, h5, h6, figure {
 .sold h1{
   color: #fff;
 }
-
+@media(min-width: 900px){
+  .sold a img{
+    width: 900px;
+    height: 600px;
+  }
+}
 
 /*# sourceMappingURL=style.css.map */
 
