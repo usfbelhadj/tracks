@@ -1769,6 +1769,17 @@ h1, h2, h3, h4, h5, h6, figure {
   opacity: 0;
 }
 
+
+.sold{
+  background-color:black;
+  padding: 10px;
+}
+
+.sold h1{
+  color: #fff;
+}
+
+
 /*# sourceMappingURL=style.css.map */
 
 
